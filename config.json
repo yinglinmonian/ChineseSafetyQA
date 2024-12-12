@@ -1,0 +1,22 @@
+{
+  "gpt-4o": {
+    "api_key": "",
+    "base_url": ""
+  },
+  "your_mode_here": {
+    "api_key": "",
+    "base_url": ""
+  },
+  "gemini-1.5-pro": {
+    "api_key": "",
+    "base_url": ""
+  },
+  "claude_sonnet35": {
+    "api_key": "",
+    "base_url": ""
+  },
+  "qwen2.5-72b-instruct": {
+    "api_key": "",
+    "base_url": ""
+  }
+}

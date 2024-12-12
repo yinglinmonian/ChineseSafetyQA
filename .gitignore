@@ -1,0 +1,8 @@
+/tmp/
+*.crdownload
+*.zip
+*.csv
+*.xml
+*.pdf
+.DS_Store
+.idea/

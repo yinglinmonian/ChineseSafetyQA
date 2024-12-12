@@ -4,7 +4,7 @@
   <img src="image/title.png" width="800px"/>
 </p>
 <p align="center">
-   🌐 <a href="https://openstellarteam.github.io/ChineseSimpleQA/" target="_blank">网站</a> • 🤗 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SimpleQA" target="_blank">Hugging Face</a> • ⏬ <a href="#data" target="_blank">数据</a> •   📃 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SimpleQA" target="_blank">Paper</a> •   📊 <a href="http://47.109.32.164/safety/" target="_blank">排行榜</a>  <br>  <a href="https://github.com/OpenStellarTeam/ChineseSimpleQA/blob/master/README_zh.md">   中文</a> | <a href="https://github.com/OpenStellarTeam/ChineseSimpleQA/blob/master/README.md">English</a> 
+   🌐 <a href="https://openstellarteam.github.io/ChineseSafetyQA/" target="_blank">网站</a> • 🤗 <a href="https://huggingface.co/datasets/OpenStellarTeam/ChineseSafetyQA" target="_blank">Hugging Face</a> • ⏬ <a href="#data" target="_blank">数据</a> •   📃 <a href="https://huggingface.co/datasets/OpenStellarTeam/ChineseSafetyQA" target="_blank">Paper</a> •   📊 <a href="http://47.109.32.164/safety/" target="_blank">排行榜</a>  <br>  <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README_zh.md">   中文</a> | <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README.md">English</a> 
 </p> 
 
 
@@ -36,7 +36,7 @@
 - 测试语言模型在安全领域中提供简洁、准确且相关答案的能力。
 - 确保语言模型符合安全标准，同时提供多样化且具有挑战性的基准，推动模型的持续改进。
 
-可以访问我们的 [网站](https://openstellarteam.github.io/ChineseSafetyQA/) 或是 [论文](https://arxiv.org/abs/2411.07140)
+可以访问我们的 [网站](https://openstellarteam.github.io/ChineseSafetyQA/) 或是 [论文](https://arxiv.org/)
 得到更详细的信息。
 
 <p align="center">
@@ -48,7 +48,7 @@
 ## 🆕 快报
 
 - **\[2024.12.11\]** 我们发布了我们的数据和论文： Chinese SafetyQA dataset
-  🤗[huggingface](https://huggingface.co/datasets/OpenStellarTeam/Chinese-SafetyQA) 🚀🚀🚀
+  🤗[huggingface](https://huggingface.co/datasets/OpenStellarTeam/ChineseSafetyQA) 🚀🚀🚀
 
 ---
 

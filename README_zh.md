@@ -4,7 +4,7 @@
   <img src="image/title.png" width="800px"/>
 </p>
 <p align="center">
-   🌐 <a href="https://openstellarteam.github.io/ChineseSafetyQA/" target="_blank">网站</a> • 🤗 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SafetyQA" target="_blank">Hugging Face</a> • ⏬ <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/data/chinese_safetyqa.csv" target="_blank">数据</a> •   📃 <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/Chinese_SafetyQA_A_Safety-Short-form_Factuality_Benchmark_for_Large_Language_Models.pdf" target="_blank">论文</a> •   📊 <a href="http://47.109.32.164/safety/" target="_blank">排行榜</a>  <br>  <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README_zh.md">   中文</a> | <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README.md">English</a> 
+   🌐 <a href="https://openstellarteam.github.io/ChineseSafetyQA/" target="_blank">网站</a> • 🤗 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SafetyQA" target="_blank">Hugging Face</a> • ⏬ <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/data/" target="_blank">数据</a> •   📃 <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/Chinese_SafetyQA_A_Safety-Short-form_Factuality_Benchmark_for_Large_Language_Models.pdf" target="_blank">论文</a> •   📊 <a href="http://47.109.32.164/safety/" target="_blank">排行榜</a>  <br>  <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README_zh.md">   中文</a> | <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README.md">English</a> 
 </p> 
 
 

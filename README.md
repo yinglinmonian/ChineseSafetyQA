@@ -4,7 +4,7 @@
   <img src="image/title.png" width="800px"/>
 </p>
 <p align="center">
-   🌐 <a href="https://openstellarteam.github.io/ChineseSafetyQA/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SafetyQA" target="_blank">Hugging Face</a> • ⏬ <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/data/chinese_safetyqa.csv" target="_blank">Data</a> •   📃 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SafetyQA" target="_blank">Paper</a> •   📊 <a href="http://47.109.32.164/safety" target="_blank">Leader Board</a>  <br>  <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README_zh.md">   中文</a> | <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README.md">English</a> 
+   🌐 <a href="https://openstellarteam.github.io/ChineseSafetyQA/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SafetyQA" target="_blank">Hugging Face</a> • ⏬ <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/data/chinese_safetyqa.csv" target="_blank">Data</a> •   📃 <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/Chinese_SafetyQA_A_Safety-Short-form_Factuality_Benchmark_for_Large_Language_Models.pdf" target="_blank">Paper</a> •   📊 <a href="http://47.109.32.164/safety" target="_blank">Leader Board</a>  <br>  <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README_zh.md">   中文</a> | <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README.md">English</a> 
 </p> 
 
 
@@ -51,7 +51,7 @@ This benchmark is an essential resource for developers and researchers aiming to
 language models.
 
 Please visit our [website](https://openstellarteam.github.io/ChineseSafetyQA/) or check
-our [paper](https://arxiv.org/) for more details.
+our [paper](https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/Chinese_SafetyQA_A_Safety-Short-form_Factuality_Benchmark_for_Large_Language_Models.pdf) for more details.
 
 > This is the evaluation repository for Chinese SafetyQA
 

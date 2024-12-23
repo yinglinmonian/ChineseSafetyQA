@@ -319,6 +319,14 @@ If you are interested in our work, please contact us at `tanyingshui.tys@taobao.
 Please cite our paper if you use our dataset.
 
 ```
-
+@misc{tan2024chinesesafetyqasafetyshortform,
+      title={Chinese SafetyQA: A Safety Short-form Factuality Benchmark for Large Language Models}, 
+      author={Yingshui Tan and Boren Zheng and Baihui Zheng and Kerui Cao and Huiyun Jing and Jincheng Wei and Jiaheng Liu and Yancheng He and Wenbo Su and Xiangyong Zhu and Bo Zheng},
+      year={2024},
+      eprint={2412.15265},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2412.15265}, 
+}
 ```
 

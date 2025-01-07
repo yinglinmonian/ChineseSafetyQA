@@ -68,7 +68,7 @@ our [paper](https://arxiv.org/abs/2412.15265) for more details.
 
 ---
 
-## 💫 Instroduction
+## 💫 Introduction
 
 * Recently, several significant studies have been published to evaluate the factual accuracy of LLMs. For instance,
   OpenAI introduced the SimpleQA benchmark, and Alibaba Group introduced the Chinese SimpleQA

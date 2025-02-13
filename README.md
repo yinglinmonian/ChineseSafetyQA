@@ -1,14 +1,4 @@
 # Overview
-
-<p align="center">
-  <img src="image/title.png" width="800px"/>
-</p>
-<p align="center">
-   🌐 <a href="https://openstellarteam.github.io/ChineseSafetyQA/" target="_blank">Website</a> • 🤗 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SafetyQA" target="_blank">Hugging Face</a> • ⏬ <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/data/" target="_blank">Data</a> •   📃 <a href="https://arxiv.org/abs/2412.15265" target="_blank">Paper</a> •   📊 <a href="http://47.109.32.164/safety" target="_blank">Leader Board</a>  <br>  <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README_zh.md">   中文</a> | <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README.md">English</a> 
-</p> 
-
-
-
 Chinese SafetyQA is an innovative benchmark designed to evaluate the factuality ability of large language models, specifically
 for short-form factual questions in the Chinese safety domain. Here's a detailed breakdown of its key features:
 
@@ -50,21 +40,11 @@ for short-form factual questions in the Chinese safety domain. Here's a detailed
 This benchmark is an essential resource for developers and researchers aiming to improve the safety and reliability of
 language models.
 
-Please visit our [website](https://openstellarteam.github.io/ChineseSafetyQA/) or check
-our [paper](https://arxiv.org/abs/2412.15265) for more details.
-
 > This is the evaluation repository for Chinese SafetyQA
 
 <p align="center">
   <img src="image/category_en.png" width="700px"/>
 </p>
-
----
-
-## 🆕 News
-
-- **\[2024.12.11\]** We have released the Chinese SafetyQA dataset
-  🤗[huggingface](https://huggingface.co/datasets/OpenStellarTeam/Chinese-SafetyQA) 🚀🚀🚀
 
 ---
 
@@ -98,16 +78,6 @@ our [paper](https://arxiv.org/abs/2412.15265) for more details.
     * LLMs contain knowledge errors in their training data and tend to be overconfident.
     * LLMs demonstrate the Tip-of-the-Tongue phenomenon concerning safety knowledge.
     * Retrieval-Augmented Generation (RAG) enhances safety factuality, whereas self-reflection does
-
----
-
-## 📊 Leaderboard
-
-For More Info：  [📊](http://47.109.32.164/safety/)
-
-<p align="center">
-  <img src="image/leader_board.png" width="800px"/>
-</p>
 
 ---
 
@@ -310,23 +280,3 @@ For `metrics.py`:
     Example: "answer_check"
 7. value: The actual value of the record.  
    Example: "Paris" (for model_answer) or "A" (for answer_check).
-
-## Contact
-If you are interested in our work, please contact us at `tanyingshui.tys@taobao.com`
-
-## Citation
-
-Please cite our paper if you use our dataset.
-
-```
-@misc{tan2024chinesesafetyqasafetyshortform,
-      title={Chinese SafetyQA: A Safety Short-form Factuality Benchmark for Large Language Models}, 
-      author={Yingshui Tan and Boren Zheng and Baihui Zheng and Kerui Cao and Huiyun Jing and Jincheng Wei and Jiaheng Liu and Yancheng He and Wenbo Su and Xiangyong Zhu and Bo Zheng},
-      year={2024},
-      eprint={2412.15265},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2412.15265}, 
-}
-```
-

@@ -1,14 +1,4 @@
 # Overview
-
-<p align="center">
-  <img src="image/title.png" width="800px"/>
-</p>
-<p align="center">
-   🌐 <a href="https://openstellarteam.github.io/ChineseSafetyQA/" target="_blank">网站</a> • 🤗 <a href="https://huggingface.co/datasets/OpenStellarTeam/Chinese-SafetyQA" target="_blank">Hugging Face</a> • ⏬ <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/data/" target="_blank">数据</a> •   📃 <a href="https://arxiv.org/abs/2412.15265" target="_blank">论文</a> •   📊 <a href="http://47.109.32.164/safety/" target="_blank">排行榜</a>  <br>  <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README_zh.md">   中文</a> | <a href="https://github.com/OpenStellarTeam/ChineseSafetyQA/blob/main/README.md">English</a> 
-</p> 
-
-
-
 **Chinese SafetyQA**是一个创新的基准数据集，专门用于评估语言模型在短形式事实性问题上的表现，特别是针对中文安全领域。以下是其关键特性的详细介绍：
 
 **Chinese SafetyQA 的关键特性**
@@ -36,19 +26,9 @@
 - 测试语言模型在安全领域中提供简洁、准确且相关答案的能力。
 - 确保语言模型符合安全标准，同时提供多样化且具有挑战性的基准，推动模型的持续改进。
 
-可以访问我们的 [网站](https://openstellarteam.github.io/ChineseSafetyQA/) 或是 [论文](https://arxiv.org/abs/2412.15265)
-得到更详细的信息。
-
 <p align="center">
   <img src="image/category_zh.png" width="700px"/>
 </p>
-
----
-
-## 🆕 快报
-
-- **\[2024.12.11\]** 我们发布了我们的数据和论文： Chinese SafetyQA dataset
-  🤗[huggingface](https://huggingface.co/datasets/OpenStellarTeam/ChineseSafetyQA) 🚀🚀🚀
 
 ---
 
@@ -74,15 +54,6 @@
     - 在安全知识方面，LLMs 展现出了“记忆卡壳现象”（Tip-of-the-Tongue Phenomenon）。
     - 检索增强生成（Retrieval-Augmented Generation, RAG）可以提升安全领域的事实性能力，而自我反思方法的提升效果较弱。
 
----
-
-## 📊 排行榜
-
-详见：  [📊](http://47.109.32.164/safety/)
-
-<p align="center">
-  <img src="image/leader_board.png" width="800px"/>
-</p>
 ---
 
 ## 🛠️ 环境设置
@@ -280,23 +251,3 @@ python3 batch_scripts/evaluation/metrics.py --in_file {path of input data} --out
    示例：
     - 如果是 `model_answer`：`"巴黎"`
     - 如果是 `answer_check`：`"A"`
-
----
-## 联系方式
-如果你对我们的项目有兴趣，请联系我们。`tanyingshui.tys@taobao.com`
-
-## Citation
-
-如果您使用了我们的数据集，请引用我们的论文。
-
-```
-@misc{tan2024chinesesafetyqasafetyshortform,
-      title={Chinese SafetyQA: A Safety Short-form Factuality Benchmark for Large Language Models}, 
-      author={Yingshui Tan and Boren Zheng and Baihui Zheng and Kerui Cao and Huiyun Jing and Jincheng Wei and Jiaheng Liu and Yancheng He and Wenbo Su and Xiangyong Zhu and Bo Zheng},
-      year={2024},
-      eprint={2412.15265},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2412.15265}, 
-}
-```
